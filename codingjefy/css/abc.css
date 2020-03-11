@@ -1,0 +1,22 @@
+<style>
+h1{
+  color:silver;
+}
+div{
+  color:blue;
+font-family:serif;
+text-align: center;
+}
+span,p{
+
+  font-family:sans-serif;
+}
+*{
+  text-decoration: underline;
+}
+a:hover{
+  color:red;
+  font-size: x-large;
+}
+
+</style>
