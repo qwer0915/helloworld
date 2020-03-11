@@ -2,11 +2,11 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>배운다 배우다 배우리다</title>
+    <title>aaaaaaaaaaaaaaa</title>
     <link rel="stylesheet" href="css/abc.css">
   </head>
   <body onload="window.defaultStatus='set color'">
-    <h1><a href="hompage.html">배운다 배우다 배우리다</a></h1>
+    <h1><a href="hompage.html">배fsadfafasfdaaf</a></h1>
     <!--배경화면 넣기 움직이는 것 환영 자바스크립트로 화면색 변경도 시도하기 -->
     <h3>내용 리스트</h3>
     <ol>
